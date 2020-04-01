@@ -1,0 +1,14 @@
+h1 {
+    color: rgb(204,0,0);
+    text-align: center;
+    font-size: 48px;
+}
+
+h2 {
+    color: rgb(204,0,0);
+    text-align: center;
+}
+
+.italic_text {
+    font-style: italic;
+}
